@@ -10,9 +10,16 @@ In order to optimise the price of AirBnB listings in Bangkok, there are two cruc
 2. What are some factors that can affect the popularity of the listings?
 
 The Jupyter notebook files attached will guide us through the process of data analysis of these listings, in an attempt to answer the questions that we have asked above.
-There are two Jupyter notebook files uploaded:
-- Data Cleaning.ipynb
-- Data Analysis.ipynb
+
+## Files
+There are several files in this repository:
+1. Two Jupyter notebook files:
+  - **Data Cleaning.ipynb**
+  - **Data Analysis.ipynb**
+2. Two csv files:
+  - **Airbnb Listings Bangkok_raw.csv** (Dataset before cleaning)
+  - **Airbnb Listings Bangkok_clean.csv** (Dataset after cleaning)
+3. A PDF file, **Airbnb Listings Bangkok Dictionary.pdf**, which explains the variables given in the dataset.
 
 The analysis will begin by cleaning the dataset given, where the process of cleaning is outlined and explained in the **Data Cleaning.ipynb file**.
 A full analysis of the dataset is explained in the **Data Analysis.ipynb file**.
